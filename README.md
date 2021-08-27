@@ -1,6 +1,7 @@
 [![MasterHead](http://merisen.online/wp-content/uploads/2021/08/merisen.jpg)](https://github.com/merisen)
 
 🦉 Personal blog 🦉
+
 Apart from coding , I also maintain a blog – you can find my articles on my website http://merisen.online.
 
 🔧 Technologies & Tools 🔧
@@ -13,6 +14,7 @@ Apart from coding , I also maintain a blog – you can find my articles on my we
 📊 GitHub Stats 📊
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=merisen&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merisen&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ⚜️ GitHub Trophy ⚜️

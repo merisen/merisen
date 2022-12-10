@@ -2,7 +2,7 @@
 
 🦉 Personal blog 🦉
 
-Apart from coding , I also maintain a blog – you can find my articles on my website http://merisen.online.
+Apart from coding , I also maintain a blog – you can find my articles on my website https://merisen.online.
 
 🔧 Technologies & Tools 🔧
 
@@ -22,6 +22,8 @@ Apart from coding , I also maintain a blog – you can find my articles on my we
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=merisen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 🎙 Latest Blog Post's 🎙
+
+UNDER UPDATE
 
  - [Object Oriented Programming](http://merisen.online/object-oriented-programming/) 
  - [Nested, inner classes & enum](http://merisen.online/nested-inner-classes-and-enum/) 

@@ -2,7 +2,7 @@
 
 🦉 Personal blog 🦉
 
-Apart from coding , I also maintain a blog – you can find my articles on my website https://merisen.online.
+Apart from coding , I also maintain a blog – you can find my articles on my website error404.
 
 🔧 Technologies & Tools 🔧
 
